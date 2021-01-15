@@ -76,12 +76,10 @@ color:#fff;
 @media screen and (max-width:767px) { 
   body{
     font-family: "Avenir Next";
+    background-image: url("alley社会学-3890787_1280.jpg");
   }
   li{
     list-style: none;
-  }
-  body{
-    background-image: url("alley社会学-3890787_1280.jpg");
   }
   .header{
     background-color:rgba(233, 198, 145, 0.623);
@@ -92,7 +90,7 @@ color:#fff;
     float: left;
     color: rgba(255, 255, 255, 0.747);
     font-size:30px;
-    padding:30px 90px 20px 10px;
+    padding:30px 110px 20px 10px;
   }
   .header-list li{
     color: blanchedalmond;
